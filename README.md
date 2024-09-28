@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <a href="https://https://dongqianyu99.github.io/dongqianyu-blog/">
+    <a href="https://dongqianyu99.github.io/dongqianyu-blog/">
       <img src="https://readme-typing-svg.demolab.com?font=consolas&weight=500&size=30&pause=1000&color=D984F7&center=true&width=435&separator=%3C&lines=printf(%22Hello+world!%22);" />
     </a>
   </div>
